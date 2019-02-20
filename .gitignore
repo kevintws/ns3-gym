@@ -44,4 +44,4 @@ build/
 *_pb2.py
 *_pb3.py
 
-*.pdf
+scratch/*/*.pdf
